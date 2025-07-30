@@ -1,0 +1,14 @@
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\bin\Debug\net8.0\ProjetoAulasPoo.exe
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\bin\Debug\net8.0\ProjetoAulasPoo.deps.json
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\bin\Debug\net8.0\ProjetoAulasPoo.runtimeconfig.json
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\bin\Debug\net8.0\ProjetoAulasPoo.dll
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\bin\Debug\net8.0\ProjetoAulasPoo.pdb
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.AssemblyInfoInputs.cache
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.AssemblyInfo.cs
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.csproj.CoreCompileInputs.cache
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.dll
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\refint\ProjetoAulasPoo.dll
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.pdb
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.genruntimeconfig.cache
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ref\ProjetoAulasPoo.dll
