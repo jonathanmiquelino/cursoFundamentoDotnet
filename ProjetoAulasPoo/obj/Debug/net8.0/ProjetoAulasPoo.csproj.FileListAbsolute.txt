@@ -12,3 +12,4 @@ D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\refint\
 D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.pdb
 D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.genruntimeconfig.cache
 D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ref\ProjetoAulasPoo.dll
+D:\curso-fundamentos-do-csharp\aulasPoo\ProjetoAulasPoo\obj\Debug\net8.0\ProjetoAulasPoo.sourcelink.json
